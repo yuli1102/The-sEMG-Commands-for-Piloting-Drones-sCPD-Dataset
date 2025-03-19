@@ -4,7 +4,7 @@ If you use this repository, please cite the following paper. This paper is submi
 Li, Y., Zhang, D., Dong, P., Yao, S., & Qin, R. (2025). S2CNet: An sEMG-based Deep Learning Model for Guiding Semi-autonomous Drones in Road Infrastructure Inspection. 
 
 ~~~~  
-@article{li2024multi,
+@article{li2025S2CNet,
   title={S2CNet: An sEMG-based Deep Learning Model for Guiding Semi-autonomous Drones in Road Infrastructure Inspection},
   author={Li, Yu and Zhang, David and Dong, Penghao and Yao, Shanshan and Qin, Ruwen},
   year={2025},
