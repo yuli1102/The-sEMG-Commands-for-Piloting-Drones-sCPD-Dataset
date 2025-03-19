@@ -1,0 +1,13 @@
+•	Processed data
+This file shows how we convert the raw “.mat” data into the final data files we used for classification. 
+
+Step 1.	Data Segmentation (example code can be found in [Segmentation_Example.ipynb](https://github.com/yuli1102/Robotic-Inspection-Command-Keywords-RICKs-v2.0/blob/main/Data_Processing/Segmentation_Example.ipynb)”)
+  1)	Extract the audio data apart from the raw “.mat” data. Extracted audio data can be found [here](https://drive.google.com/drive/folders/1HtfJ_dde7auzDmJqPMQpo1xhLYTAYUi0?usp=drive_link).
+  2)	Split data on silence by setting a minimum silence time, silence threshold, and a segment length. 
+  3)	Assign labels of Train, Val, and Test to each segment. Get an Alignment csv file, which can be found as “[Alignment_label_final.csv](https://github.com/yuli1102/Robotic-Inspection-Command-Keywords-RICKs-v2.0/blob/main/Data_Processing/Alignment_label_final.csv)”
+
+Step 2.	Convert to Image (example code can be found in [Convert_Scaleogram_Example.ipynb](https://github.com/yuli1102/Robotic-Inspection-Command-Keywords-RICKs-v2.0/blob/main/Data_Processing/Convert_Scaleogram_Example.ipynb)”)
+  1)	Use scaleogram package to generate the scaleogram. 
+  2)	The final converted scaleogram can be found [here](https://drive.google.com/drive/folders/1yvobQDLeBAkvNWtwp86-UeuDjkwbJCGH?usp=drive_link). 
+
+
