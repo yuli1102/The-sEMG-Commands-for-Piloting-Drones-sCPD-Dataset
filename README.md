@@ -1,11 +1,11 @@
 ## Citation
-If you use this repository, please cite the following paper. This paper is submiting to the CACAIE. The citation will be updated later. 
+If you use this repository, please cite the following paper. This paper is just acceptted to the CACAIE. The citation will be updated later. 
 
-Li, Y., Zhang, D., Dong, P., Yao, S., & Qin, R. (2025). S2CNet: An sEMG-based Deep Learning Model for Guiding Semi-autonomous Drones in Road Infrastructure Inspection. 
+Li, Y., Zhang, D., Dong, P., Yao, S., & Qin, R. (2025). A surface electromyography–based deep learning model for guiding semiautonomous drones in road infrastructure inspection
 
 ~~~~  
 @article{li2025S2CNet,
-  title={S2CNet: An sEMG-based Deep Learning Model for Guiding Semi-autonomous Drones in Road Infrastructure Inspection},
+  title={A surface electromyography–based deep learning model for guiding semiautonomous drones in road infrastructure inspection},
   author={Li, Yu and Zhang, David and Dong, Penghao and Yao, Shanshan and Qin, Ruwen},
   year={2025},
 }
@@ -35,6 +35,7 @@ Example code in folder of [Data Processing](./Data_Processing/) shows how we pro
 
 ## NINAPro DB1
 We also used a public dataset of NINAPro DB1, which can be found [here](https://ninapro.hevs.ch/instructions/DB1.html). The converted Scaleogram of this dataset can be downloaded [here](https://drive.google.com/drive/folders/1z45hrx9GgVlabqyUZVAuV2KQIsBrjDHw?usp=drive_link).
+
 
 # Experiment Results
 Experiment results analysis code is concluded in the paper, details can be found from "Experiment Results/[Experiments_performance_1213.ipynb](https://github.com/yuli1102/Robotic-Inspection-Command-Keywords-RICKs-v2.0/blob/main/Experiment%20Results/Experiments_performance_1213.ipynb)" in this repository.
